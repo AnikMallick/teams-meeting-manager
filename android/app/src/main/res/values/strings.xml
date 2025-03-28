@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">TeamsManager</string>
+    <string name="title_activity_main">TeamsManager</string>
+    <string name="package_name">com.teamsmeetingmanager.app</string>
+    <string name="custom_url_scheme">com.teamsmeetingmanager.app</string>
+</resources>
